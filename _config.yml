@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my website!"
+title                    : "Mauricio Calani"
 title_separator          : "-"
 name                     : "Mauricio Calani"
-description              : "Thank you for visiting my website"
+description              : "Thank you for visitint my personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mauricio Calani"
+  name             : "Mauricio Calani "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Economist, Financial Research Unit, Central Bank of Chile"
+  bio              : "Economist, Financial Research Unit, Central Bank of Chile"
   location         : "Santiago, Chile"
   email            :
   links:
@@ -294,8 +294,8 @@ defaults:
       share: true
       related: true
   - scope:
-    path: ""
-    type: pages 
-    values: 
-    layout: single 
-    author_profile: true
+      path: ""
+      type: pages
+      values:
+        layout: single
+        author profile: true
